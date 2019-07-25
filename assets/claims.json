@@ -1,0 +1,40 @@
+{
+
+    "Data":
+     [
+    {
+    "serviceDates": "05/13/2019 - 05/13/2019",
+    "rejectionCode": "+OV +70 +69,VW ",
+    
+    "reasonforRejection": "+OVERPAYMENT+ACCOUNTING ADJUSTMENTS: THE ERROR ASSOCIATED WITH 69 HAS BEEN CORRECTED. (EXCLUDED FROM TIME-TO-PAY)+ACCOUNTING ADJUSTMENTS: THERE IS AN ERROR. (EXCLUDED FROM TIME-TO-PAY)",
+    
+    "claimNo": "7807383042-01",
+    
+    "providerName": "BODIN, TYLER R",
+    
+    "status": "Rejected",
+    
+    "action":"IBag"
+    
+    },
+    {
+    "serviceDates": "04/05/2019 - 04/05/2019",
+    
+    "rejectionCode": "+44 +44 +44 +FD,44 ",
+    
+    "reasonforRejection": "+AT/T ELIGIBILITY - AUTO ASSIGNED+AT/T ELIGIBILITY - AUTO ASSIGNED+AT/T ELIGIBILITY - AUTO ASSIGNED+AT/T ELIGIBILITY - AUTO ASSIGNED",
+    
+    "claimNo": "8627425096-01",
+    
+    "providerName": "CUTTING EDGE PHYSICAL THERAPY",
+    
+    "status": "Rejected",
+    
+    "action":"IBag"
+    
+    }
+    ],
+    "Success": "OK",
+    "SuccessMessage": "this record is correct", 
+    "ErrorMessage": "There is no error"
+    }

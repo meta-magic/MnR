@@ -1,0 +1,13 @@
+{
+  "Command": "MnR_CoverageStage",
+  "Data": {
+    "yourInitialCoverageLimit": "$3,820.00 ",
+    "copaymentsandCoinsurance": "$733.47",
+    "yourPlanHasPaid": "$1,734.02",
+    "total": "$2,467.49",
+    "amount": "$1,352.51"
+  },
+  "Success": "OK",
+  "SuccessMessage": "this record is correct",
+  "ErrorMessage": "There is no error"
+}

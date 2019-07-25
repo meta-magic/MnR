@@ -1,0 +1,22 @@
+ {
+    "data": [
+        {
+       "name": "Claims Enquiry",
+       "checked": false
+    }, {
+      "name": "Plan Query", 
+      "checked": false
+    }, {
+       "name": "Rx Query",
+       "checked": false
+    },
+    {
+        "name": "Pharmacy Query",
+         "checked": false
+      },
+      {
+        "name": "General",
+         "checked": false
+      }
+]
+  }

@@ -1,0 +1,33 @@
+{
+
+    "Data": 
+    [
+        {
+            "memberId": "020236067-1",
+            
+            "lastName": "VALLET",
+            
+            "firstName": "BRYAN",
+            
+            "middleName": "E",
+            
+            "DOB": "11/24/1964",
+            
+            "age": "54",
+            
+            "addressLine1": "17057 RENNES RD",
+            
+            "city": "PRAIRIEVILLE",
+            
+            "stateCode": "LA",
+            
+            "zipCode": "70769",
+            
+            "lineOfBusiness": "0"
+            
+            }
+    ],
+    "Success": "OK", 
+    "SuccessMessage": "this record is correct",
+     "ErrorMessage": "There is no error"
+    }
