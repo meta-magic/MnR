@@ -107,6 +107,7 @@ products-panel{
 
 top-right{
   display: block;
+  height: 100%;
   padding-bottom: 2px;
 }
 
