@@ -1,33 +1,21 @@
 {
-
-    "Data": 
-    [
-        {
-            "memberId": "020236067-1",
-            
-            "lastName": "VALLET",
-            
-            "firstName": "BRYAN",
-            
-            "middleName": "E",
-            
-            "DOB": "11/24/1964",
-            
-            "age": "54",
-            
-            "addressLine1": "17057 RENNES RD",
-            
-            "city": "PRAIRIEVILLE",
-            
-            "stateCode": "LA",
-            
-            "zipCode": "70769",
-            
-            "lineOfBusiness": "0"
-            
-            }
-    ],
-    "Success": "OK", 
-    "SuccessMessage": "this record is correct",
-     "ErrorMessage": "There is no error"
+  "Command": "MnR_Search",
+  "Data": [
+    {
+      "Member Id": "020236067-1",
+      "Last Name": "VALLET",
+      "First Name": "BRYAN",
+      "Middle Name": "E",
+      "DOB": "11/24/1964",
+      "Age": "54",
+      "Address Line 1": "17057 RENNES RD",
+      "City": "PRAIRIEVILLE",
+      "State Code": "LA",
+      "Zip Code": "70769",
+      "Line of Business": "0"
     }
+  ],
+  "Success": "OK",
+  "SuccessMessage": "this record is correct",
+  "ErrorMessage": "There is no error"
+}

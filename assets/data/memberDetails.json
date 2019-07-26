@@ -1,11 +1,9 @@
-
-
-  {
+{
   "Command": "MnR_MemberDetails",
   "Data": {
-    "medicareClaimNo": "2DJ8QF0CQ47",
-    "sourceSystem": "COSMOS",
-    "memberStartDate": "3/25/2019"
+    "Medicare Claim No.": "2DJ8QF0CQ47",
+    "Source System": "COSMOS",
+    "Member Start Date": "3/25/2019"
   },
   "Success": "OK",
   "SuccessMessage": "this record is correct",

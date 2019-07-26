@@ -1,11 +1,11 @@
 {
   "Command": "MnR_CoverageStage",
   "Data": {
-    "yourInitialCoverageLimit": "$3,820.00 ",
-    "copaymentsandCoinsurance": "$733.47",
-    "yourPlanHasPaid": "$1,734.02",
-    "total": "$2,467.49",
-    "amount": "$1,352.51"
+    "Your Initial Coverage Limit": "$3,820.00",
+    "Copayments and Coinsurance paid by you": "$733.47",
+    "Your plan has Paid": "$1,734.02",
+    "Total paid by you and your plan": "$2,467.49",
+    "Amount remaining before coverage gap": "$1,352.51"
   },
   "Success": "OK",
   "SuccessMessage": "this record is correct",

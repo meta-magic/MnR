@@ -1,12 +1,9 @@
 {
-  "Command": "MnR_Plan_Details",
   "Data": {
-    "planName": "AARP MedicareRx Preferred (PDP)",
-    "planStatus": "ACTIVE",
-    "planStartDate": "20/7/2019",
-    "planType": "AARP_PDP"
-  },
-  "Success": "OK",
-  "SuccessMessage": "this record is correct",
-  "ErrorMessage": "There is no error"
+    "Plan Name": "AARP MedicareRx Preferred (PDP)",
+    "Plan Status": "ACTIVE",
+    "Plan Start Date": "20/7/2019",
+    "Plan Type": "AARP_PDP"
+  }
+ 
 }
