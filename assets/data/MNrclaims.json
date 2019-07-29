@@ -1,32 +1,45 @@
 {
-  "Command": "MnR_RejectedClaims",
-  "Data": [
-    {
-      "Service Date": "6/26/2019",
-      "Rx Number": "000000629364",
-      "Drug Name": "DICLOFENAC GEL 1%",
-      "Status": "Rejected",
-      "Group": "IS5820001A",
-      "Claim Messages": "ClaimMessages:Prod/ServiceNotCovered(70)CMSAppealRightsNotice(569)ProvideExceptionProcessPrintedNoticeTransitionN/A,PARequired800-711-4555Non-FormularyDrug,ContactPrescriberNon-FormularyDrugNon-FormularyDrug"
+  "Data": {
+    "ResponseMetaData": {
+      "Command": "MnR_CallerIsMember",
+      "requestId": "a8f7fe52-b1c1-11e9-a2a3-2a2ae2dbcce4",
+      "responseTime": "1564385069691",
+      "commandSeqId": 5,
+      "totalResponsesAvailable": 5,
+      "responseSequenceId": 5,
+      "responseSanitizationRequired": true,
+      "completed": false
     },
-    {
-      "Service Date": "6/25/2019",
-      "Rx Number": "000000629364",
-      "Drug Name": "DICLOFENAC GEL 1%",
-      "Status": "Rejected",
-      "Group": "IS5820001A",
-      "Claim Messages": "ClaimMessages:Prod/ServiceNotCovered(70)CMSAppealRightsNotice(569)ProvideExceptionProcessPrintedNoticeTransitionN/A,PARequired800-711-4555Non-FormularyDrug,ContactPrescriberNon-FormularyDrugNon-FormularyDrug"
-    },
-    {
-      "Service Date": "6/6/2019",
-      "Rx Number": "000000629364",
-      "Drug Name": "DICLOFENAC GEL 1%",
-      "Status": "Rejected",
-      "Group": "IS5820001A",
-      "Claim Messages": "ClaimMessages:Prod/ServiceNotCovered(70)CMSAppealRightsNotice(569)ProvideExceptionProcessPrintedNoticeTransitionN/A,PARequired800-711-4555Non-FormularyDrug,ContactPrescriberNon-FormularyDrugNon-FormularyDrug"
+    "ResponseData": [
+      {
+        "Service Date": "6/26/2019",
+        "Rx Number": "000000629364",
+        "Drug Name": "DICLOFENAC GEL 1%",
+        "Status": "Rejected",
+        "Group": "IS5820001A",
+        "Claim Messages": "ClaimMessages:Prod/ServiceNotCovered(70)CMSAppealRightsNotice(569)ProvideExceptionProcessPrintedNoticeTransitionN/A,PARequired800-711-4555Non-FormularyDrug,ContactPrescriberNon-FormularyDrugNon-FormularyDrug"
+      },
+      {
+        "Service Date": "6/25/2019",
+        "Rx Number": "000000629364",
+        "Drug Name": "DICLOFENAC GEL 1%",
+        "Status": "Rejected",
+        "Group": "IS5820001A",
+        "Claim Messages": "ClaimMessages:Prod/ServiceNotCovered(70)CMSAppealRightsNotice(569)ProvideExceptionProcessPrintedNoticeTransitionN/A,PARequired800-711-4555Non-FormularyDrug,ContactPrescriberNon-FormularyDrugNon-FormularyDrug"
+      },
+      {
+        "Service Date": "6/6/2019",
+        "Rx Number": "000000629364",
+        "Drug Name": "DICLOFENAC GEL 1%",
+        "Status": "Rejected",
+        "Group": "IS5820001A",
+        "Claim Messages": "ClaimMessages:Prod/ServiceNotCovered(70)CMSAppealRightsNotice(569)ProvideExceptionProcessPrintedNoticeTransitionN/A,PARequired800-711-4555Non-FormularyDrug,ContactPrescriberNon-FormularyDrugNon-FormularyDrug"
+      }
+    ],
+    "ResponseStatus": {
+      "success": true,
+      "statusCode": 200,
+      "statusMessage": "Message can be Success or Failure"
     }
-  ],
-  "Success": "OK",
-  "SuccessMessage": "this record is correct",
-  "ErrorMessage": "There is no error"
+  }
 }
