@@ -1,7 +1,7 @@
 {
   "Data": {
     "ResponseMetaData": {
-      "Command": "MnR_CallerIsMember",
+      "Command": "MnRCallerIsMember",
       "requestId": "a8f7fe52-b1c1-11e9-a2a3-2a2ae2dbcce4",
       "responseTime": "1564385069691",
       "commandSeqId": 5,
