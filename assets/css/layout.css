@@ -99,14 +99,9 @@ center-right > amexio-card > div > .card-body{
 company-logo .floatingbutton-circle{
   padding: 15px;
 }
-
-customer-demo-graphic .card-body{
-  padding: 0px !important;
-  padding-left: 5px !important;
-}
-
+ 
 customer-demo-graphic .field-name-align{
-  padding: 0px;
+  
   vertical-align: top;
   word-break: break-word;
 }
@@ -186,9 +181,9 @@ product-details .input-box-container{
   margin-left: 5px;
   padding-left: 30px;
 }
- 
-product-details .field-name-align{
-  padding: 0px;
+  
+
+.field-name-align{
   vertical-align: top;
   word-break: break-word;
 }
@@ -204,3 +199,23 @@ base-tab-component  > amexio-layout-columns > amexio-layout-item{
   background-color : unset !important;
 }
 
+checkbox .input-box-container{
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+
+
+
+.datatable, .datatable-height{
+  box-shadow: unset;
+}
+
+
+.tablink{
+  padding: 5px;
+}
+
+
+.activebgcolortab{
+  background-color: var(--componentHeaderBGColor)
+}

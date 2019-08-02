@@ -5,16 +5,16 @@
       "requestId": "a8f7fe52-b1c1-11e9-a2a3-2a2ae2dbcce4",
       "responseTime": "1564385069691",
       "commandSeqId": 2,
-      "totalResponsesAvailable": 5,
+      "totalResponsesAvailable": 6,
       "responseSequenceId": 2,
       "responseSanitizationRequired": true,
       "completed": false
     },
-    "ResponseData": {
+    "ResponseData": [{
     "Medicare Claim No.": "2DJ8QF0CQ47",
     "Source System": "COSMOS",
     "Member Start Date": "3/25/2019"
-  },
+  }],
     "ResponseStatus": {
       "success": true,
       "statusCode": 200,
